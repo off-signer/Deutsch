@@ -59,7 +59,89 @@ const sentencePairs = [
       {
         mainText: "(der Stuhl) Er schiebt (___) Stuhl. - Он передвигает свой стул.",
         verificationText: "seinen"
+      },
+      {
+        mainText: "(der Apfel) Sie isst (___) Äpfel. - Она ест свои яблоки.",
+        verificationText: "ihre"
+      },
+      {
+        mainText: "(die Blumen) Er gießt (___) Blumen. - Он поливает свои цветы.",
+        verificationText: "seine"
+      },
+      {
+        mainText: "(das Buch) Sie liest (___) Bücher. - Она читает свои книги.",
+        verificationText: "ihre"
+      },
+      {
+        mainText: "(der Stift) Er benutzt (___) Stifte. - Он использует свои ручки.",
+        verificationText: "seine"
+      },
+      {
+        mainText: "(die Lampe) Sie repariert (___) Lampen. - Она ремонтирует свои лампы.",
+        verificationText: "ihre"
+      },
+      {
+        mainText: "(das Auto) Er fährt (___) Autos. - Он ездит на своих машинах.",
+        verificationText: "seinen"
+      },
+      {
+        mainText: "(die Katze) Sie streichelt (___) Katzen. - Она гладит своих кошек.",
+        verificationText: "ihre"
+      },
+      {
+        mainText: "(der Hund) Er spaziert mit (___) Hunden. - Он гуляет со своими собаками.",
+        verificationText: "seinen"
+      },
+      {
+        mainText: "(die Tasse) Sie trinkt aus (___) Tassen. - Она пьет из своих чашек.",
+        verificationText: "ihren"
+      },
+      {
+        mainText: "(der Computer) Er verwendet (___) Computer. - Он использует свои компьютеры.",
+        verificationText: "seine"
+      },
+      {
+        mainText: "(die Bluse) Sie trägt (___) Blusen. - Она носит свои блузки.",
+        verificationText: "ihre"
+      },
+      {
+        mainText: "(das Handy) Er benutzt (___) Handys. - Он пользуется своими смартфонами.",
+        verificationText: "seine"
+      },
+      {
+        mainText: "(die Brille) Sie trägt (___) Brillen. - Она носит свои очки.",
+        verificationText: "ihre"
+      },
+      {
+        mainText: "(das Fahrrad) Er fährt (___) Fahrräder. - Он катается на своих велосипедах.",
+        verificationText: "seinen"
+      },
+      {
+        mainText: "(der Kuchen) Sie isst (___) Kuchen. - Она ест свои пироги.",
+        verificationText: "ihren"
+      },
+      {
+        mainText: "(die Jacke) Er trägt (___) Jacken. - Он носит свои куртки.",
+        verificationText: "seine"
+      },
+      {
+        mainText: "(der Schlüssel) Sie verliert (___) Schlüssel. - Она теряет свои ключи.",
+        verificationText: "ihre"
+      },
+      {
+        mainText: "(die Schuhe) Er trägt (___) Schuhe. - Он носит свои туфли.",
+        verificationText: "seine"
+      },
+      {
+        mainText: "(das Spielzeug) Sie spielt mit (___) Spielzeug. - Она играет со своими игрушками.",
+        verificationText: "ihren"
+      },
+      {
+        mainText: "(die Pflanze) Er gießt (___) Pflanzen. - Он поливает свои растения.",
+        verificationText: "seine"
       }
+      
+
       
       
       

@@ -1,17 +1,4 @@
-const sentences = [
-    {
-        mainText: "Der Lehrer unterrichtet (der) Schüler. (Учитель обучает ученика.)",
-        verificationText: "den"
-    },
-    {
-        mainText: "Die Katze jagt (die) Maus. (Кошка гоняется за мышью.)",
-        verificationText: "die"
-    },
-    {
-        mainText: "Der Gärtner pflanzt (der) Blumen. (Садовник сажает цветы.)",
-        verificationText: "die"
-    }
-];
+import sentences from "./sentences.js";
 
 let currentIndex = 0;
 const sentenceElement = document.getElementById("sentence");
